@@ -9,4 +9,5 @@ Programs to develop simple JavaFx  interfaces
 
 ---
 ## JavaFx programs - 
-1.JavaFx simple buttons
+1.JavaFx simple buttons. -> [JavaFx buttons](https://github.com/ishanjogalekar/JavaFx-Programs/blob/main/javafx_buttons.java)
+2.JavaFX myInfo page with database. ->[JavaFx database](https://github.com/ishanjogalekar/JavaFx-Programs/blob/main/javafx_mypgae.java)

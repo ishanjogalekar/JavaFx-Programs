@@ -9,4 +9,4 @@ Programs to develop simple JavaFx  interfaces
 
 ---
 ## JavaFx programs - 
-1.
+1.JavaFx simple buttons
